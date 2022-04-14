@@ -1,5 +1,5 @@
 <template>
-  <div :class="defaultClasses">
+  <div class="defaultClasses">
     <div
       v-if="!hideLabel"
       :class="labelClasses"
